@@ -21,7 +21,7 @@ CREATE TABLE status (
 INSERT INTO clients VALUES (1, 'Jaroslaw', 'Golus', 'j.golus@randomail.com', '999-999-999', NULL);
 INSERT INTO clients VALUES (2, 'Janusz', 'Nowak', 'j.nowak@randomail.com', '777-888-999', '48');
 INSERT INTO clients VALUES (3, 'Grazyna', 'Kowalska', 'j.kowalska@randomail.com', '111-111-222', '51');
-INSERT INTO clients VALUES (4, 'Michal', 'Nowakowski', 'm.nowakowski@randomail.com', '222-333-444', NULL);
+INSERT INTO clients VALUES (4, 'Grzegorz', 'Nowakowski', 'm.nowakowski@randomail.com', '222-333-444', NULL);
 INSERT INTO clients VALUES (5, 'Piotr', 'Pawel', 'p.pawel@randomail.com', '576-778-768', '35');
 
 INSERT INTO transactions VALUES (1, '2022-12-15 10:30:00', 5, 119.99);

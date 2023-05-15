@@ -10,7 +10,7 @@ CREATE TABLE transactions (
 	id SERIAL PRIMARY KEY,
 	payment_details TIMESTAMP NOT NULL,
 	user_id INTEGER NOT NULL,
-	amount NUMERIC NOT NULL
+	amount DECIMAL NOT NULL
 );
 CREATE TABLE status (
 	id SERIAL PRIMARY KEY,
